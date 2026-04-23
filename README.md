@@ -1,0 +1,2 @@
+# glqs
+GlazeWM Quick Setup
