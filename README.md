@@ -1,1 +1,1 @@
-** GlazeWM Quick Setup **
+**GlazeWM Quick Setup**
