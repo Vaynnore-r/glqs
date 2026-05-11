@@ -90,3 +90,14 @@
 [2m2026-05-08T12:02:57.131780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
 [2m2026-05-09T05:34:53.233017Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to get container to focus.
 [2m2026-05-10T06:36:40.790863Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-11T14:34:37.847731Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 372 column 4, while parsing a block collection at line 222 column 3
+[2m2026-05-11T14:34:43.645184Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 372 column 4, while parsing a block collection at line 222 column 3
+[2m2026-05-11T14:39:04.549372Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-11T14:43:59.884322Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 372 column 5, while parsing a block mapping at line 369 column 5
+[2m2026-05-11T14:44:09.092837Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 372 column 5, while parsing a block mapping at line 369 column 5
+[2m2026-05-11T14:47:20.035197Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 372 column 5, while parsing a block mapping at line 369 column 5
+[2m2026-05-11T14:49:48.832021Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[46].commands: unrecognized subcommand
+ at line 372 column 15
+[2m2026-05-11T15:05:35.110372Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 373 column 3, while parsing a block collection at line 222 column 3
+[2m2026-05-11T15:10:53.048097Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 373 column 3, while parsing a block collection at line 222 column 3
+[2m2026-05-11T15:12:05.007662Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for 'start /b powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File C:/Users/wikto/glm/glm.ps1'. Make sure the program exists and is accessible from your shell. Error: Operacja została anulowana przez użytkownika. (0x800704C7)

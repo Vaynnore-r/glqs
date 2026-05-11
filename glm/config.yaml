@@ -368,3 +368,8 @@ keybindings:
     bindings: ['alt+shift+8']
   - commands: ['move --workspace 9', 'focus --workspace 9']
     bindings: ['alt+shift+9']
+
+  - commands: ["shell-exec wscript C:/Users/wikto/glm/glm.vbs"]
+    bindings: ['alt+shift+home']
+
+ 
