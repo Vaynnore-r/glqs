@@ -1,0 +1,92 @@
+[2m2026-04-14T20:19:12.383780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for 'zebar'. Make sure the program exists and is accessible from your shell. Error: Operacja została anulowana przez użytkownika. (0x800704C7)
+[2m2026-04-14T20:22:11.976889Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unrecognized subcommand
+ at line 139 column 15
+[2m2026-04-14T20:23:29.943010Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 15
+[2m2026-04-14T20:23:53.796804Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 15
+[2m2026-04-14T20:26:01.399155Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 15
+[2m2026-04-14T20:26:52.047271Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 15
+[2m2026-04-15T18:58:33.088706Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 138 column 7
+[2m2026-04-15T18:58:49.741071Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-15T18:59:00.557534Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-15T18:59:49.246442Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-15T19:00:26.788905Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-15T19:01:25.668280Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 135 column 5
+[2m2026-04-15T19:02:01.688772Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-15T19:10:01.081733Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 7
+[2m2026-04-15T19:10:38.432010Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 7
+[2m2026-04-15T19:11:02.169011Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 136 column 7
+[2m2026-04-15T19:14:45.380538Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 136 column 7
+[2m2026-04-15T19:15:23.095080Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 136 column 7
+[2m2026-04-15T19:37:32.648404Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-15T19:38:10.355496Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No common ancestor between containers.
+[2m2026-04-15T19:39:33.073455Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unexpected argument found
+ at line 136 column 7
+[2m2026-04-15T19:40:00.116538Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m duplicate field `window_rules`
+[2m2026-04-15T19:40:09.015655Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T19:41:08.261984Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 137 column 9
+[2m2026-04-15T19:44:24.041279Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T19:44:24.150126Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T19:44:54.742615Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T19:46:00.933449Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T19:46:10.633426Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 138 column 9
+[2m2026-04-15T20:04:36.779791Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-17T14:50:13.818852Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 135 column 5
+[2m2026-04-17T14:50:28.493059Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 135 column 5
+[2m2026-04-17T14:51:02.194053Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `match` at line 135 column 5
+[2m2026-04-17T14:51:23.887159Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-18T07:26:24.194245Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-18T08:05:53.661758Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 135 column 5
+[2m2026-04-18T21:40:32.034280Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T21:41:15.400748Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 7
+[2m2026-04-18T21:41:59.206852Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match[0]: data did not match any variant of untagged enum MatchType at line 137 column 9
+[2m2026-04-18T21:43:17.203186Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 135 column 5
+[2m2026-04-18T21:43:48.460729Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T21:44:39.970287Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T22:29:25.219181Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T22:51:05.349297Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T22:51:35.260505Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-18T22:52:00.107154Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: invalid type: string "set-opacity 1", expected a sequence at line 135 column 15
+[2m2026-04-18T22:52:51.199949Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 136 column 7
+[2m2026-04-18T22:53:42.895879Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 137 column 7
+[2m2026-04-19T20:17:41.159513Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 303 column 15
+[2m2026-04-19T20:23:10.977108Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-04-19T20:26:28.746848Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules: invalid type: map, expected a sequence at line 135 column 3
+[2m2026-04-19T20:28:36.264566Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `match` at line 135 column 6
+[2m2026-04-21T16:37:49.088514Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-21T17:46:34.908961Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-23T12:45:05.637589Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-23T17:17:43.909446Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-25T07:08:39.194819Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-25T12:21:13.463857Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-25T14:06:21.665729Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-25T14:30:34.289260Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-02T16:48:56.256639Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-02T18:13:16.806289Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-03T07:17:09.798932Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-04T13:54:52.464518Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-05T17:58:31.325407Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-06T18:00:48.376503Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-07T14:51:57.829568Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-07T17:19:37.311787Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-08T12:02:57.131780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-05-09T05:34:53.233017Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to get container to focus.
+[2m2026-05-10T06:36:40.790863Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
